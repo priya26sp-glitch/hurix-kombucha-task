@@ -1,0 +1,13 @@
+[task]
+id = "kombucha-bioprocess-optimization"
+name = "Comparative Kinetic & Biochemical Optimization of Agro-Industrial Kombucha Fermentation"
+domain = "biology"
+subdomain = "bioprocess-engineering"
+version = "1.0.0"
+[metadata]
+author = "Suriyapriya Selvaraj"
+difficulty = "hard"
+estimated_time_minutes = 120
+[environment]
+framework = "docker"
+python_version = "3.10"
